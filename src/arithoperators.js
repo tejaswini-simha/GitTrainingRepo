@@ -4,6 +4,7 @@ let product = 10 * 5;
 let quotient = 10 / 2;
 let diff = 10 - 5;
 console.log(sum, product, diff, quotient);
+console.log("Added another comment");
 
 // Example 2: Increment operator
 let count = 0;
