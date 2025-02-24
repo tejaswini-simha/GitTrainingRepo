@@ -7,7 +7,10 @@ let diff = 10 - 5;
 //Exponent Operator
 let expOp = 5**2;
 
-console.log(sum, product, diff, quotient, expOp);
+//Modulo Operator
+let modulusOfTheNumber = 8%3;
+
+console.log(sum, product, diff, quotient, expOp, modulusOfTheNumber);
 console.log("Added another comment1");
 
 // Example 2: Increment operator
