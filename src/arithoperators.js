@@ -3,7 +3,11 @@ let sum = 10 + 5;
 let product = 10 * 5;
 let quotient = 10 / 2;
 let diff = 10 - 5;
-console.log(sum, product, diff, quotient);
+
+//Exponent Operator
+let expOp = 5**2;
+
+console.log(sum, product, diff, quotient, expOp);
 console.log("Added another comment1");
 
 // Example 2: Increment operator
