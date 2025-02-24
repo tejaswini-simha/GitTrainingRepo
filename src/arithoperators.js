@@ -3,10 +3,14 @@ let sum = 10 + 5;
 let product = 10 * 5;
 let quotient = 10 / 2;
 let diff = 10 - 5;
+
+//Exponent Operator
+let expOp = 5**2;
+
 //Modulo Operator
 let modulusOfTheNumber = 8%3;
 
-console.log(sum, product, diff, quotient, modulusOfTheNumber);
+console.log(sum, product, diff, quotient, expOp, modulusOfTheNumber);
 console.log("Added another comment1");
 
 // Example 2: Increment operator
